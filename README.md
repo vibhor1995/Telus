@@ -1,3 +1,3 @@
 # Telus
 This is my first git repository
-Author- vibhor upreti
+Author- vibhor upreti (G.L bajaj)
